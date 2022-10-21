@@ -5,6 +5,7 @@ learn aws CI/CD pipeline
 EC2 Script
 
 #!/bin/bash
+
 sudo yum -y update
 sudo yum -y install ruby
 sudo the yum -y install wget
